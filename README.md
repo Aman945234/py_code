@@ -1,4 +1,4 @@
 # py_code
 practising code of python
 
-print("Hello world")
+print("Hello world") hi hi
